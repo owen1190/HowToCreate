@@ -8,23 +8,30 @@
 ## 目录
 - [x] 幻灯片
 - [x] 日历
-- [ ] 载入按钮
-- [ ] 模态框窗口（Modal Box）
-- [ ] 模态框照片（Modal Image）
+- [x] 模态框窗口（Modal Box）
+- [x] 手风琴（Accordion）
 - [ ] 灯箱效果
-- [ ] 过滤/搜索列表
-- [ ] 过滤/搜索表格
+- [ ] 过滤/搜索列表/表格
+- [ ] 下拉菜单
 - [ ] 排序列表
 - [ ] 排序表格
-- [ ] JS动画
+- [ ] 动画菜单按钮
 - [ ] 进度条
 - [ ] 技能栏
-- [ ] 提示框
+- [ ] 提示框(tooltips)
 - [ ] 弹出层
-- [ ] Todo List
+- [x] Todo List
 - [ ] 回到顶部
 - [ ] CSS Loader
-- [ ] 
+- [ ] 动画搜索框
+- [ ] Toggle Switch
+- [ ] 登录
+- [ ] Scroll Drawing
+- [ ] Animated Icons
+- [ ] Fullscreen Navigation
+- [ ] Side Navigation
+
+
 
 
 ## License
