@@ -10,6 +10,7 @@
 - [x] 日历
 - [x] 模态框窗口（Modal Box）
 - [x] 手风琴（Accordion）
+- [x] Toggle Switch
 - [ ] 灯箱效果
 - [ ] 过滤/搜索列表/表格
 - [ ] 下拉菜单
@@ -24,7 +25,6 @@
 - [ ] 回到顶部
 - [ ] CSS Loader
 - [ ] 动画搜索框
-- [ ] Toggle Switch
 - [ ] 登录
 - [ ] Scroll Drawing
 - [ ] Animated Icons
